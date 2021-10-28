@@ -1,5 +1,3 @@
-Topics covered-
-DAY-1
-1. Git basics
-2. Read DevOps Documents
-3. Revised some topics of Networking related to IP addressing
+Day-2
+1. Continued with git course.
+2. had a small chat with murtaza sir and we got another assignment.
