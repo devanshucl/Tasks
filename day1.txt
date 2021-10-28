@@ -1,4 +1,0 @@
-Topics covered-
-1. Git basics
-2. Read DevOps Documents
-3. Revised some topics of Networking related to IP addressing
