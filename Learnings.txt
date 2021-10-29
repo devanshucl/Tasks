@@ -1,5 +1,5 @@
-Day-2
-1. Continued with git course.
-2. had a small chat with murtaza sir and we got another assignment.
-
-Day12
+Day-3
+1. Gained some knowledge on IP ranges and classes like IPv4 has 5 classes and private IP has 3 classes. Then learned about important port numbers and how many ports are there in tcp and udp (65,535). Also got some info on Transport layer security which is also called secure sockets layer which is used for encrypting communication over the internet, based on this TLS the HTTPS (Hypertext tansport protocol secure) was impleted. Which mains the encryption authentication and integrity. Learned about the major difference between TCP and UDP which are -: 
+A. UDP is faster, simpler and more efficient than TCP.
+B. Retransmission of data is not possible in UDP.
+C. Sequencing of data is not possible in UDP. If it needs to be managed then application layer will be responsiple for it.
